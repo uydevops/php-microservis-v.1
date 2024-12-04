@@ -14,4 +14,11 @@ foreach($ogrenciler as $ogrenci)
     }
     echo "<hr>";
 }
+
+
+Yiğit Tuğa
+
+Adana /Çukurova 
+
+01 T 0069
 ?>
